@@ -1,4 +1,5 @@
-## Hi, my name is Vinicius Arantes, but you can call me Vini 😎
+## Hello, and welcome to my Github!
+## My name is Vinicius, but you can call me Vini 😎
 <br/>
 
 I start my dev journey with Python and Data, but currently working with Front-End
