@@ -1,6 +1,8 @@
 ## Hi, my name is Vinicius Arantes, but you can call me Vini 😎
 <br/>
+
 I start my dev journey with Python and Data, but currently working with Front-End
+<br/>
 
 🎨 I’m currently working as React/Typescript developer 🎨
 
