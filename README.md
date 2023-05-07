@@ -3,8 +3,8 @@
 
 <br/>
 
-📈 I’m currently working as Data Analyst, using Power BI and MSSQLServer 📈
+📈 I’m currently working as Data Analyst, using Power BI, MSSQLServer and Python in a brazillian cooperative bank 📈
 
-🤖 Learning more about Data Science / Machine Learning and a little bit of Flutter and NodeJS 🤖
+🤖 Learning more about Data Engineering and Machine Learning and a little bit of Flutter 🤖
 
 📫 You can call me on LinkedIn: https://www.linkedin.com/in/vinicius-daniel-arantes/ 📫
