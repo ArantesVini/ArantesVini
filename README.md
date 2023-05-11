@@ -1,4 +1,4 @@
-## Hello, and welcome to my Github!
+# Hello, and welcome to my Github!
 ## My name is Vinicius, but you can call me Vini 😎
 
 <br/>
@@ -7,7 +7,7 @@
 
 <br/>
 
-:iphone: Also, loves mobile development. I'm working on personal projects with Firebase and Flutter. :iphone:
+:iphone: Also, I'm passionate with mobile development. I'm working on personal projects with Flutter and Firebase. :iphone:
 
 <br/>
 
