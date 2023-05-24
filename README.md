@@ -7,7 +7,7 @@
 
 <br/>
 
-:iphone: Also, I'm passionate with mobile development. I'm working on personal projects with Flutter and Firebase. :iphone:
+:iphone: Also, I'm passionate with mobile development. I'm working on personal projects with Flutter, Firebase and Parse Server. :iphone:
 
 <br/>
 
