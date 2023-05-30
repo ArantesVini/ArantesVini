@@ -9,6 +9,8 @@
 
 :iphone: Also, I'm passionate with mobile development. I'm working on personal projects with Flutter, Firebase and Parse Server. :iphone:
 
+🕸️ And, last but no less important, I'm a web developer, working with React / Typescript and learning more about back end with Node.JS and Flask 🐍
+
 <br/>
 
 📫 <b>You can call me on LinkedIn: <b/> https://www.linkedin.com/in/vinicius-daniel-arantes/ 📫
