@@ -11,6 +11,8 @@
 
 🕸️ And, last but no less important, I'm a web developer, working with React / Typescript and learning more about back end with Node.JS and Flask 🐍
 
+I'am into a personal challenge to do at least a single commit everyday for 30 days! :octocat:
+
 <br/>
 
 📫 <b>You can call me on LinkedIn: <b/> https://www.linkedin.com/in/vinicius-daniel-arantes/ 📫
