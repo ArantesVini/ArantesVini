@@ -5,7 +5,7 @@
 
 📈 I’m currently working as Data Analyst, using **Power BI, MSSQLServer and Python** in a brazillian cooperative bank.
 
-⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark and Databricks!**
+⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker and Databricks!**
 
 <br/>
 
