@@ -14,7 +14,7 @@
 ---
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArantesVini&&layout=donut-vertical&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArantesVini&layout=donut-vertical&exclude_repo=Cluster_Basico,analise_imoveis_rj,analise_dados_restaurante&theme=synthwave" />
 </a>
 </p>
 
