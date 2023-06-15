@@ -10,8 +10,7 @@
 :iphone: Also, I'm passionate with mobile development. I'm working on personal projects with **Flutter, Firebase and Parse Server.**
 
 ---
-📫 <b>You can call me on **LinkedIn**: <b/> https://www.linkedin.com/in/vinicius-daniel-arantes/
----
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArantesVini&layout=donut-vertical&exclude_repo=Cluster_Basico,analise_imoveis_rj,analise_dados_restaurante&theme=synthwave" />
@@ -19,3 +18,5 @@
 </p>
 
 ---
+
+📫 <b>You can call me on **LinkedIn**: <b/> https://www.linkedin.com/in/vinicius-daniel-arantes/
