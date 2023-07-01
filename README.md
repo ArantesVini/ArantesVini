@@ -5,7 +5,7 @@
 
 📈 I’m currently working as Data Analyst, using **Power BI, MSSQLServer and Python** in a brazillian cooperative bank.
 
-⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker and Databricks!**
+⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker, Kafka and Databricks!**
 
 :iphone: Also, I'm passionate with mobile development. I'm working on personal projects with **Flutter, Firebase and Parse Server.**
 
@@ -13,7 +13,8 @@
 
 ### Certifications:
 * Astronomer Apache Airflow Fundamentals;
-* ANBIMA CPA-10
+* ANBIMA CPA-10;
+* Databricks Lakehouse Fundamentals
 ---
 
 <p align="center">
