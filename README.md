@@ -7,8 +7,6 @@
 
 ⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker, Kafka and Databricks!**
 
-☕ Also, I'm studying Java in order to enhace my Scala and Kafka Skills.**
-
 ---
 
 ### Certifications:
