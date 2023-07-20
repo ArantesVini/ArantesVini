@@ -11,6 +11,33 @@
 
 ---
 
+**Languages:**
+  - Python;
+  - SQL;
+  - DAX;
+  - HCL;
+  - Dart/Flutter;
+  - JavaScript/TypeScript;
+  - HTML/CSS.
+
+**Tools:**
+  - Databricks;
+  - Apache Airflow;
+  - Docker;
+  - Airbyte;
+  - Metabase;
+  - Power BI;
+  - AWS;
+  - Azure.
+
+**Non-code related Hard skills:**
+  - Data warehousing;
+  - Data modelling;
+  - Data lake design and implementation;
+  - Finance and economics.
+
+---
+
 ### Certifications:
 * Astronomer Apache Airflow Fundamentals;
 * ANBIMA CPA-10;
