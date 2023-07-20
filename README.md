@@ -7,6 +7,8 @@
 
 ⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker, Kafka and Databricks!**
 
+👾 As a hobby I'am starting to learn about Cybersecurity
+
 ---
 
 ### Certifications:
