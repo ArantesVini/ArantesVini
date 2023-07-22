@@ -11,6 +11,9 @@
 
 ---
 
+<details>
+  <summary>Hard Skills</summary>
+
 **Languages:**
   - Python;
   - SQL;
@@ -19,6 +22,8 @@
   - Dart/Flutter;
   - JavaScript/TypeScript;
   - HTML/CSS.
+
+---
 
 **Tools:**
   - Databricks;
@@ -29,6 +34,8 @@
   - Power BI;
   - AWS;
   - Azure.
+
+---
 
 **Non-code related Hard skills:**
   - Data warehousing;
@@ -43,6 +50,11 @@
 * ANBIMA CPA-10;
 * Databricks Lakehouse Fundamentals
 ---
+</details>
+
+---
+
+
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
