@@ -5,9 +5,9 @@
 
 🐍 I’m currently working as Data Analyst, using **Power BI, MSSQLServer and Python** in a brazillian cooperative bank.
 
-⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker, Kafka and Databricks!**
+⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker and Databricks!**
 
-👾 Now I'am also focused on Cybersecurity and network studies
+👾 Now I'am also focused on **Offensive Cybersecurity** studies and pratice
 
 ---
 
@@ -34,23 +34,13 @@
   - Power BI;
   - AWS;
   - Azure.
-
----
-
-**Non-code related Hard skills:**
-  - Data warehousing;
-  - Data modelling;
-  - Data lake design and implementation;
-  - Finance and economics.
-
----
+</details>
 
 ### Certifications:
-* Astronomer Apache Airflow Fundamentals;
-* ANBIMA CPA-10;
-* Databricks Lakehouse Fundamentals
----
-</details>
+ - Astronomer Apache Airflow Fundamentals;
+ - ANBIMA CPA-10;
+ - Databricks Lakehouse Fundamentals;
+ - Denodo for Data Analytics
 
 ---
 
