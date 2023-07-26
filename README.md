@@ -9,6 +9,8 @@
 
 👾 Now I'am also focused on **Offensive Cybersecurity** studies and pratice
 
+📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
+
 ---
 
 <details>
