@@ -7,7 +7,7 @@
 
 ⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker and Databricks!**
 
-👾 Now I'am also focused on **Offensive Cybersecurity** studies and pratice
+👾 Now I'am also focused on **Cybersecurity** studies and pratice
 
 📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
 
@@ -32,6 +32,8 @@
   - Apache Airflow;
   - Docker;
   - Airbyte;
+  - SIEM tools;
+  - IDS tools;
   - Metabase;
   - Power BI;
   - AWS;
