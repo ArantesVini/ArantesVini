@@ -1,7 +1,4 @@
-# Hello, and welcome to my Github!
 ## My name is Vinicius, but you can call me Vini 😎
-
----
 
 🐍 I’m currently working as Data Analyst, using **Power BI, MSSQLServer and Python** in a brazillian cooperative bank.
 
@@ -11,41 +8,40 @@
 
 📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
 
-
-
 ---
 
 <details>
   <summary>Hard Skills</summary>
 
 **Languages:**
-  - Python;
-  - SQL;
-  - DAX;
-  - HCL;
-  - Dart/Flutter;
-  - JavaScript/TypeScript;
-  - HTML/CSS.
+  - Python
+  - SQL
+  - DAX
+  - HCL
+  - Dart/Flutter
+  - JavaScript/TypeScript
+  - HTML/CSS
 
 ---
 
 **Tools:**
-  - Databricks;
-  - Apache Airflow;
-  - Docker;
-  - Airbyte;
-  - SIEM tools;
-  - IDS tools;
-  - Metabase;
-  - Power BI;
-  - AWS;
-  - Azure.
+  - Databricks
+  - Apache Airflow
+  - Docker
+  - Airbyte
+  - SIEM tools
+  - Metasploit
+  - IDS tools
+  - Metabase
+  - Power BI
+  - AWS
+  - Azure
 </details>
 
 ### Certifications:
- - Astronomer Apache Airflow Fundamentals;
- - ANBIMA CPA-10;
- - Databricks Lakehouse Fundamentals;
+ - Astronomer Apache Airflow Fundamentals
+ - ANBIMA CPA-10
+ - Databricks Lakehouse Fundamentals
  - Denodo for Data Analytics
 
 ---
