@@ -11,6 +11,8 @@
 
 📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
 
+
+
 ---
 
 <details>
@@ -48,18 +50,33 @@
 
 ---
 
-
-
+<br />
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArantesVini&layout=donut&exclude_repo=Cluster_Basico,analise_imoveis_rj,analise_dados_restaurante&theme=synthwave" />
-</a>
-  <br>
-  <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArantesVini&show_icons=true&theme=synthwave&rank_icon=github" />
-</a>
+  <a>
+    <img
+      align="center"
+      src="https://streak-stats.demolab.com?user=ArantesVini&theme=dracula"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArantesVini&layout=donut&exclude_repo=Cluster_Basico,analise_imoveis_rj,analise_dados_restaurante&theme=dracula"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=ArantesVini&show_icons=true&theme=dracula&rank_icon=github"
+    />
+  </a>
+  <br />
 </p>
+<br />
 
 ---
 
