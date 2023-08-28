@@ -1,48 +1,51 @@
 ## My name is Vinicius, but you can call me Vini 😎
 
-🐍 I’m currently working as Data Analyst, using **Power BI, MSSQLServer and Python** in a brazillian cooperative bank.
-
-⚙️ My studies is mainly in Data Engineering, focused on **Airflow, Spark, Docker and Databricks!**
+🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank.
 
 👾 Now I'am also focused on **Cybersecurity** studies and pratice
 
 📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
 
+👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and as part of my cybersec journey I starting some CTFs on HackTheBox!
+
 ---
 
 <details>
-  <summary>Hard Skills</summary>
-
-**Languages:**
-  - Python
-  - SQL
-  - DAX
-  - HCL
-  - Dart/Flutter
-  - JavaScript/TypeScript
-  - HTML/CSS
-
----
-
-**Tools:**
-  - Databricks
-  - Apache Airflow
-  - Docker
-  - Airbyte
-  - SIEM tools
-  - Metasploit
-  - IDS tools
-  - Metabase
-  - Power BI
-  - AWS
-  - Azure
+  <summary>Languages</summary>
+  - Python <br />
+  - SQL <br />
+  - DAX <br />
+  - HCL <br />
+  - Dart/Flutter <br />
+  - JavaScript/TypeScript <br />
+  - HTML/CSS <br />
+  - Rust <br />
 </details>
 
-### Certifications:
- - Astronomer Apache Airflow Fundamentals
- - ANBIMA CPA-10
- - Databricks Lakehouse Fundamentals
- - Denodo for Data Analytics
+<details>
+  <summary>Tools</summary>
+  - Databricks <br />
+  - Apache Airflow <br />
+  - Docker <br />
+  - Airbyte <br />
+  - SIEM tools <br />
+  - Metasploit <br />
+  - Kali Linux Tools <br />
+  - IDS tools <br />
+  - Metabase <br />
+  - Power BI <br />
+  - AWS <br />
+  - Azure <br />
+</details>
+
+<details>
+  <summary>Certificaitons</summary>
+  - Astronomer Apache Airflow Fundamentals <br />
+  - ANBIMA CPA-10 <br />
+  - Databricks Lakehouse Fundamentals <br />
+  - Denodo for Data Analytics <br />
+</details>
+
 
 ---
 
