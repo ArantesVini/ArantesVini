@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary>Certificaitons</summary>
+  <summary>Certifications</summary>
   - Astronomer Apache Airflow Fundamentals <br />
   - ANBIMA CPA-10 <br />
   - Databricks Lakehouse Fundamentals <br />
