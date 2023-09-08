@@ -2,7 +2,7 @@
 
 🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank.
 
-👾 Now I'am also focused on **Cybersecurity** studies and pratice
+🤓 My studies are currently focused on Cybersecurity, C/C++, Rust and Scala
 
 📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
 
