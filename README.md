@@ -51,11 +51,6 @@
 
 <br />
 <p align="center">
-  <a>
-    <img
-      align="center"
-      src="https://streak-stats.demolab.com?user=ArantesVini&theme=dracula"
-    />
   </a>
   <br />
   <br />
