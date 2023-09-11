@@ -1,12 +1,12 @@
 ## My name is Vinicius, but you can call me Vini 😎
 
-🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank.
+🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
 
-🤓 My studies are currently focused on Cybersecurity, C/C++, Rust and Scala
+🤓 My studies are currently focused on C/C++, Rust, Scala and Machine Learning with Python and R 🤖
 
-📖 I am studying Analysis and Systems Development at UNOPAR and pursuing the Google Cybersecurity Professional Certificate
+📖 I am studying Analysis and Systems Development at UNOPAR 💻
 
-👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and as part of my cybersec journey I starting some CTFs on HackTheBox!
+👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
 
 ---
 
@@ -19,6 +19,7 @@
   - Dart/Flutter <br />
   - JavaScript/TypeScript <br />
   - HTML/CSS <br />
+  - C/C++ <br />
   - Rust <br />
 </details>
 
