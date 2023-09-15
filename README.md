@@ -2,7 +2,7 @@
 
 🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
 
-🤓 My studies are currently focused on C/C++, Rust, Scala and Machine Learning with Python and R 🤖
+🤓 My studies are currently focused on C/C++, Rust, and Machine Learning with Python and R 🤖
 
 📖 I am studying Analysis and Systems Development at UNOPAR 💻
 
@@ -14,24 +14,24 @@
   <summary>Languages</summary>
   - Python <br />
   - SQL <br />
-  - DAX <br />
+  - DAX/M <br />
   - HCL <br />
+  - C/C++ <br />
+  - Rust <br />
   - Dart/Flutter <br />
   - JavaScript/TypeScript <br />
   - HTML/CSS <br />
-  - C/C++ <br />
-  - Rust <br />
 </details>
 
 <details>
   <summary>Tools</summary>
   - Databricks <br />
   - Apache Airflow <br />
+  - Spark <br />
   - Docker <br />
   - Airbyte <br />
   - SIEM tools <br />
   - Metasploit <br />
-  - Kali Linux Tools <br />
   - IDS tools <br />
   - Metabase <br />
   - Power BI <br />
@@ -44,7 +44,6 @@
   - Astronomer Apache Airflow Fundamentals <br />
   - ANBIMA CPA-10 <br />
   - Databricks Lakehouse Fundamentals <br />
-  - Denodo for Data Analytics <br />
 </details>
 
 
