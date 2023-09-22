@@ -1,6 +1,6 @@
 ## My name is Vinicius, but you can call me Vini 😎
 
-🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **Microsoft SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
+🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
 
 🤓 My studies are currently focused on C/C++, Rust, and Machine Learning with Python and R 🤖
 
