@@ -9,6 +9,7 @@
 👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
 
 🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing (who I want to return to pratice soon)
+
 ---
 
 <details>
