@@ -11,6 +11,7 @@
 🥊 Also I'am praticing Boxing (the reason I slowed down with my commits), as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
 
 🩹 I got a small injury in my finger, until it recoveries I will focus in my Penetration Test course and CTF Pratice
+
 ---
 
 <details>
