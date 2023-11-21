@@ -2,15 +2,13 @@
 
 🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
 
-🤓 My studies are currently focused on Machine Learning with Python and R 🤖 and Offensive Security / Pentest 👾
+🤓 My studies are currently focused on Machine Learning with Python 🤖
 
 📖 I am studying Analysis and Systems Development at UNOPAR 💻
 
 👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
 
 🥊 Also I'am praticing Boxing (the reason I slowed down with my commits), as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
-
-🩹 I got a small injury in my finger, until it recoveries I will focus in my Penetration Test course and CTF Pratice
 
 ---
 
