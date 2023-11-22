@@ -1,14 +1,14 @@
 ## My name is Vinicius, but you can call me Vini 😎
 
-🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **SQL Server**, and **Power BI**  in a brazillian cooperative bank 💰.
+🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **SQL Server/mySQL**, and **Power BI**  in a brazillian cooperative bank 💰.
 
-🤓 My studies are currently focused on Machine Learning with Python 🤖
+🤓 My studies are currently focused on Machine Learning Engineering with Python 🤖 and Offensive Cybersecurity 👾
 
 📖 I am studying Analysis and Systems Development at UNOPAR 💻
 
 👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
 
-🥊 Also I'am praticing Boxing (the reason I slowed down with my commits), as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
+🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
 
 ---
 
