@@ -5,10 +5,18 @@
 🤓 My studies are currently focused on Machine Learning Engineering with Python 🤖 and Offensive Cybersecurity 👾
 
 📖 I am studying Analysis and Systems Development at UNOPAR 💻
+💻 And doing the course "Novo Pentest Profissional" by Desec Academy
 
 👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
 
 🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
+
+🚀 My goals for 2024 is
+  - Achieve my first Cybersecurity certification
+  - Reach a professional level in Machine Learning Engineering
+  - 365 Commits
+  - 10 techinical books
+  - My first amateur boxing competition
 
 ---
 
