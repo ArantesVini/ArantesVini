@@ -11,13 +11,6 @@
 
 🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
 
-🚀 My goals for 2024 are
-  - Achieve my first Cybersecurity certification
-  - Reach a professional level in Machine Learning Engineering
-  - 365 Commits
-  - 10 techinical books
-  - My first amateur boxing competition
-
 ---
 
 <details>
