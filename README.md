@@ -4,12 +4,13 @@
 
 🤓 My studies are currently focused on Machine Learning Engineering with Python 🤖 and Offensive Cybersecurity 👾
 
-📖 I am studying Analysis and Systems Development at UNOPAR 💻
-💻 And doing the course "Novo Pentest Profissional" by Desec Academy
+📖 I am studying Analysis and Systems Development at UNOPAR (last semester!) and doing the course "Novo Pentest Profissional" by Desec Academy
 
-👽 My hobbies are playing games (mainly Zelda on Switch or strategy games on PC) and watch One Piece ☠️!
+👽 My hobbies are playing games (mainly Baldurs Gate 3 to be honest) and study!
 
 🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
+
+🏋️ My goal is to return to pratice powerlifting in 2024
 
 ---
 
@@ -17,6 +18,7 @@
   <summary>Languages</summary>
   - Python <br />
   - SQL <br />
+  - Bash/Shell <br />
   - DAX/M <br />
   - HCL <br />
   - C/C++ <br />
@@ -35,7 +37,7 @@
   - Airbyte <br />
   - SIEM tools <br />
   - Metasploit <br />
-  - IDS tools <br />
+  - IDS/IPS tools <br />
   - Metabase <br />
   - Power BI <br />
   - AWS <br />
