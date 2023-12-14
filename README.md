@@ -8,10 +8,6 @@
 
 👽 My hobbies are playing games (mainly Baldurs Gate 3 to be honest) and study!
 
-🥊 Also I'am praticing Boxing, as a Martial Arts enthusiast I have already praticed Brazillian Jiu-jitsu, Muay Thai and Kick boxing.
-
-🏋️ My goal is to return to pratice powerlifting in 2024
-
 ---
 
 <details>
