@@ -1,12 +1,12 @@
 ## My name is Vinicius, but you can call me Vini 😎
 
-🐍 I’m currently working as Data Analyst, using **Python**, **Databricks**, **SQL Server/mySQL**, and **Power BI**  in a brazillian cooperative bank 💰.
+🐍 I’m currently working as Data Analyst, using **Python**, **Databricks** and **SQL**, and **Power BI**  in a USA company.
 
 🤓 My studies are currently focused on Machine Learning Engineering with Python 🤖 and Offensive Cybersecurity 👾
 
 📖 I am studying Analysis and Systems Development at UNOPAR (last semester!) and doing the course "Novo Pentest Profissional" by Desec Academy
 
-👽 My hobbies are playing games (mainly Baldurs Gate 3 to be honest) and study!
+👽 My hobbies are playing games (mainly Helldivers 2 to be honest) and study!
 
 ---
 
