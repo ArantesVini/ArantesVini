@@ -8,6 +8,8 @@
 
 👽 My hobbies are playing games (mainly Helldivers 2 to be honest) and study!
 
+🗽 Due to the amazing opportunity to work to a US company, my main focus on 2023 is to enhance my English skills, but I will also document my studies here on GitHub. Work (and future live) on US is my career's biggest goal, and I will do everything to be sucessful at this opportunity 💙
+
 ---
 
 <details>
