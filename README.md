@@ -1,6 +1,6 @@
 ## I am Vinicius, but you can call me Vin 😎
 
-🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, **SQL** and **Power BI**.
+🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
 
 🤓 I am intently focused on studying Machine Learning Engineering with Python 🤖 and English 🇺🇸.
 
