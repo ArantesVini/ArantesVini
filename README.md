@@ -1,14 +1,12 @@
-## My name is Vinicius, but you can call me Vini 😎
+## I am Vinicius, but you can call me Vin 😎
 
-🐍 I’m currently working as Data Analyst, using **Python**, **Databricks** and **SQL**, and **Power BI**  in a USA company.
+🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, **SQL** and **Power BI**.
 
-🤓 My studies are currently focused on Machine Learning Engineering with Python 🤖 and Offensive Cybersecurity 👾
+🤓 I am intently focused on studying Machine Learning Engineering with Python 🤖 and English 🇺🇸.
 
-📖 I am studying Analysis and Systems Development at UNOPAR (last semester!) and doing the course "Novo Pentest Profissional" by Desec Academy
+📖 I am in my last semester of studying Analysis and Systems Development at UNOPAR. Additionally, I am taking the course "Novo Pentest Profissional" by Desec Academy.
 
-👽 My hobbies are playing games (mainly Helldivers 2 to be honest) and studying!
-
-🗽 Due to the amazing opportunity to work for a US company, my main focus in 2023 is to enhance my English skills, but I will also document my studies here on GitHub. Working in the US is my career's biggest goal, and I will do everything to be successful at this opportunity 💙
+👽 My hobbies include playing video games and studying!
 
 ---
 
