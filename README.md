@@ -6,9 +6,9 @@
 
 📖 I am studying Analysis and Systems Development at UNOPAR (last semester!) and doing the course "Novo Pentest Profissional" by Desec Academy
 
-👽 My hobbies are playing games (mainly Helldivers 2 to be honest) and study!
+👽 My hobbies are playing games (mainly Helldivers 2 to be honest) and studying!
 
-🗽 Due to the amazing opportunity to work to a US company, my main focus on 2023 is to enhance my English skills, but I will also document my studies here on GitHub. Work (and future live) on US is my career's biggest goal, and I will do everything to be sucessful at this opportunity 💙
+🗽 Due to the amazing opportunity to work for a US company, my main focus in 2023 is to enhance my English skills, but I will also document my studies here on GitHub. Working in the US is my career's biggest goal, and I will do everything to be successful at this opportunity 💙
 
 ---
 
