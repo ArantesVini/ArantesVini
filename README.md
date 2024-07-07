@@ -2,9 +2,7 @@
 
 🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
 
-🤓 I am intently focused on studying Machine Learning Engineering with Python 🤖 and English 🇺🇸.
-
-📖 I am in my last semester of studying Analysis and Systems Development at UNOPAR. Additionally, I am taking the course "Novo Pentest Profissional" by Desec Academy.
+🤓 I am intently focused on studying **Machine Learning** and **Data Engineering** with Python 🤖.
 
 👽 My hobbies include playing video games and studying!
 
@@ -45,6 +43,7 @@
   - Astronomer Apache Airflow Fundamentals <br />
   - ANBIMA CPA-10 <br />
   - Databricks Lakehouse Fundamentals <br />
+  - Bachelor in Systems Analysis and Development - Unopar <br />
 </details>
 
 
