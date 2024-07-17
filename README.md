@@ -1,10 +1,10 @@
-## I am Vinicius, but you can call me Vin 😎
+## I am Vinicius, but you can call me Vinny 😎
 
-🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
+🐍 As a Data Transformation Specialist (Analytics Engineer) in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
 
 🤓 I am pursuing two Lato sensu postgraduate degrees - Data engineering and architecture and Data engineering IA Expert - at XP Educação 🤖.
 
-👽 My hobbies include playing video games and studying!
+👽 My hobbies include playing video games, read, and studying!
 
 ---
 
