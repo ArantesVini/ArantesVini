@@ -2,7 +2,7 @@
 
 🐍 As a Data Analyst in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
 
-🤓 I am intently focused on studying **Machine Learning** and **Data Engineering** with Python 🤖.
+🤓 I am pursuing two Lato sensu postgraduate degrees - Data engineering and architecture and Data engineering IA Expert - at XP Educação 🤖.
 
 👽 My hobbies include playing video games and studying!
 
