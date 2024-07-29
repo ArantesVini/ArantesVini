@@ -28,6 +28,9 @@
   - Apache Airflow <br />
   - Spark <br />
   - Docker <br />
+  - Apache NiFi <br />
+  - MongoDB <br />
+  - Apache Cassandra <br />
   - Airbyte <br />
   - SIEM tools <br />
   - Metasploit <br />
