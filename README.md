@@ -1,9 +1,5 @@
 ## I am Vinicius, but you can call me Vinny 😎
 
-🐍 As a Data Product Associate (Analytics Engineer) in a USA-based company, I work with **Python**, **Databricks**, and **SQL**.
-
-🤓 I am pursuing two _Lato sensu_ postgraduate degrees - Data engineering and architecture and Data engineering IA Expert - at XP Educação 🤖.
-
 ---
 
 <details>
